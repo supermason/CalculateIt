@@ -1,0 +1,14 @@
+{
+    "name": "supermason/equation-gen",
+    "description": "a lib for generating equations",
+    "type": "library",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SuperMason",
+            "email": "jijiiscoming@hotmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
