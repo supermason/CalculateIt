@@ -2,7 +2,9 @@
     "name": "supermason/equation-gen",
     "description": "a lib for generating equations",
     "type": "library",
-    "require": {},
+    "require": {
+        "php": "^7.0"
+    },
     "license": "MIT",
     "authors": [
         {
